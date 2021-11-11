@@ -175,7 +175,7 @@
     <body>
         <form id="form" enctype="multipart/form-data" method="POST">
             <input type="hidden" name="id" id="id"/><br>
-            Nama : <input type="text" name="nama" id="nama"><br>
+            Nama Lengkap : <input type="text" name="nama" id="nama"><br>
             Email : <input type="text" name="email" id="email"><br>
             Foto : <input type="file" name="images" id="images"><br>
             <button onclick="insertOrupdate()" type="button">Simpan</button>
